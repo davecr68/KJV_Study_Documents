@@ -5,7 +5,7 @@
 
 This repository contains a growing collection of Bible research studies based primarily on the **King James Version (KJV)** of the Holy Bible.
 
-The library currently includes **42 research studies**, with supporting documents intended to encourage deeper examination of Scripture, biblical language, historical context, and theological interpretation.
+The library currently includes **24 research studies**, with supporting documents intended to encourage deeper examination of Scripture, biblical language, historical context, and theological interpretation.
 
 Our purpose is to provide accessible research materials for individuals who wish to investigate biblical subjects, compare Scripture with Scripture, and develop a more complete understanding of God's Word.
 
